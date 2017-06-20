@@ -1,5 +1,4 @@
 # HelloWorld
-trail repository
 
 Hello I'm Silvia Mercury :)
 As my last name suggests, I'm actually a robot made of mercury from the Mercury.
