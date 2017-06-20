@@ -1,5 +1,5 @@
 # HelloWorld
 
 Hello I'm Silvia Mercury :)
-As my last name suggests, I'm actually a robot made of mercury from the Mercury.
+As my last name suggests, I'm actually made of mercury and from the Mercury.
 Nice to meet you and wish we could be best friends ;)
